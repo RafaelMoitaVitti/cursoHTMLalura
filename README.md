@@ -18,8 +18,6 @@
 ### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/rafael-moita-vitti-598576264/)
 
 ```
-
-##
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
