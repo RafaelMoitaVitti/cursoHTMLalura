@@ -1,5 +1,6 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
+![fotopgit](https://github.com/user-attachments/assets/fc877bc7-bb27-4854-b413-1b67a694db81)
 
 
 
