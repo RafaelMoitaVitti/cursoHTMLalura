@@ -15,7 +15,7 @@
 
 ### Rafael Moita Vitti
 
-### Linkedin:(https://www.linkedin.com/in/rafael-moita-vitti-598576264/)
+### Linkedin: https://www.linkedin.com/in/rafael-moita-vitti-598576264/
 
 ```
 <div>
